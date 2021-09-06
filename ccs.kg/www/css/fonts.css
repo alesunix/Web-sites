@@ -1,0 +1,137 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans|Playfair+Display:400,700,400italic,700italic&subset=latin,cyrillic);
+
+
+#nudge{
+	-webkit-transition-property:color,background-color,padding-left;
+	-webkit-transition-duration:500ms,500ms,500ms;
+	text-align: left;
+}
+#nudge:hover{
+	#background-color:#efefef;
+color: #333;
+padding-left: 5px;
+cursor: pointer;
+font-weight: bold;
+}
+
+.right{
+	text-align: right;
+}
+h1{
+font-size: 39px;
+line-height: 40px;
+}
+h2 {
+padding-top: 65px;
+}
+
+h8{
+font-size: 25px;
+font-weight: bold;
+}
+h7{
+font-size: 16px;
+font-weight: normal;
+margin: 10px 0;
+line-height: 22px;
+font-family: inherit;
+text-rendering: optimizelegibility;
+}
+.master{
+color: #fff;
+position: relative;
+top: -10px;
+#text-shadow: 2px 2px 4px #000;
+font-size: 14px;
+font-weight: normal;
+text-transform: uppercase;
+#font-weight: bold;
+background-color: #2b3541;
+padding: 5px;
+border-top: 44px double #8397a9;
+}
+
+
+
+
+
+
+
+
+
+
+@media all and (max-width: 1440px) and (min-width: 701px){
+	h1{
+font-size: 30px;
+line-height: 25px;
+}
+}
+
+@media all and (max-width: 700px) and (min-width: 0px){
+.right{
+text-align: left;
+}
+.master{
+color: #fff;
+position: relative;
+top: 0px;
+font-size: 14px;
+font-weight: normal;
+margin-top: 0px;
+margin-bottom: 10px;
+padding: 10px;
+line-height: 17px;
+letter-spacing: 1px;
+border-top: 11px double #8397a9;
+}
+h1{
+font-size: 23px;
+line-height: 25px;
+}
+h2 {
+    font-size: 25px;
+	line-height: 15px;
+	text-align: center;
+	padding-top: 35px;
+}
+h3{
+font-size: 12px;
+line-height: 15px;
+}
+
+h5 {
+    font-size: 17px;
+	text-align: center;
+	line-height: 15px;
+}
+
+@font-face{
+font-family: 'Akrobat-Regular';
+src: url('../fonts/Akrobat-Regular.ttf');
+font-style: normal; 
+font-weight: normal; 
+}
+@font-face{
+font-family: 'MullerRegular';
+src: url('../fonts/MullerRegular.ttf');
+font-style: normal; 
+font-weight: normal; 
+}
+@font-face{
+font-family: 'Roboto-Regular';
+src: url('../fonts/Roboto-Regular.ttf');
+font-style: normal; 
+font-weight: normal; 
+}
+@font-face{
+font-family: 'Montserrat-SemiBold';
+src: url('../fonts/Montserrat-SemiBold.ttf');
+font-style: normal; 
+font-weight: normal; 
+}
+@font-face{
+font-family: 'Montserrat-Light';
+src: url('../fonts/Montserrat-Light.ttf');
+font-style: normal; 
+font-weight: normal; 
+}

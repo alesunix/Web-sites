@@ -1,0 +1,177 @@
+﻿[29-Aug-2016 03:30:49 UTC] PHP Parse error:  syntax error, unexpected $end, expecting T_VARIABLE or T_END_HEREDOC or T_DOLLAR_OPEN_CURLY_BRACES or T_CURLY_OPEN in I:\home\aquaphor.kg\www\template\blocks.inc.php on line 145
+[29-Aug-2016 03:31:40 UTC] PHP Parse error:  syntax error, unexpected $end, expecting T_VARIABLE or T_END_HEREDOC or T_DOLLAR_OPEN_CURLY_BRACES or T_CURLY_OPEN in I:\home\aquaphor.kg\www\template\blocks.inc.php on line 147
+[29-Aug-2016 03:34:30 UTC] PHP Parse error:  syntax error, unexpected $end, expecting T_VARIABLE or T_END_HEREDOC or T_DOLLAR_OPEN_CURLY_BRACES or T_CURLY_OPEN in I:\home\aquaphor.kg\www\template\blocks.inc.php on line 145
+[29-Aug-2016 03:34:31 UTC] PHP Parse error:  syntax error, unexpected $end, expecting T_VARIABLE or T_END_HEREDOC or T_DOLLAR_OPEN_CURLY_BRACES or T_CURLY_OPEN in I:\home\aquaphor.kg\www\template\blocks.inc.php on line 145
+[29-Aug-2016 03:34:39 UTC] PHP Parse error:  syntax error, unexpected $end, expecting T_VARIABLE or T_END_HEREDOC or T_DOLLAR_OPEN_CURLY_BRACES or T_CURLY_OPEN in I:\home\aquaphor.kg\www\template\blocks.inc.php on line 144
+[29-Aug-2016 03:34:41 UTC] PHP Parse error:  syntax error, unexpected $end, expecting T_VARIABLE or T_END_HEREDOC or T_DOLLAR_OPEN_CURLY_BRACES or T_CURLY_OPEN in I:\home\aquaphor.kg\www\template\blocks.inc.php on line 144
+[29-Aug-2016 03:34:42 UTC] PHP Parse error:  syntax error, unexpected $end, expecting T_VARIABLE or T_END_HEREDOC or T_DOLLAR_OPEN_CURLY_BRACES or T_CURLY_OPEN in I:\home\aquaphor.kg\www\template\blocks.inc.php on line 144
+[29-Aug-2016 03:34:51 UTC] PHP Parse error:  syntax error, unexpected $end, expecting T_VARIABLE or T_END_HEREDOC or T_DOLLAR_OPEN_CURLY_BRACES or T_CURLY_OPEN in I:\home\aquaphor.kg\www\template\blocks.inc.php on line 141
+[29-Aug-2016 03:34:51 UTC] PHP Parse error:  syntax error, unexpected $end, expecting T_VARIABLE or T_END_HEREDOC or T_DOLLAR_OPEN_CURLY_BRACES or T_CURLY_OPEN in I:\home\aquaphor.kg\www\template\blocks.inc.php on line 141
+[29-Aug-2016 03:34:52 UTC] PHP Parse error:  syntax error, unexpected $end, expecting T_VARIABLE or T_END_HEREDOC or T_DOLLAR_OPEN_CURLY_BRACES or T_CURLY_OPEN in I:\home\aquaphor.kg\www\template\blocks.inc.php on line 141
+[29-Aug-2016 03:34:52 UTC] PHP Parse error:  syntax error, unexpected $end, expecting T_VARIABLE or T_END_HEREDOC or T_DOLLAR_OPEN_CURLY_BRACES or T_CURLY_OPEN in I:\home\aquaphor.kg\www\template\blocks.inc.php on line 141
+[29-Aug-2016 03:38:14 UTC] PHP Parse error:  syntax error, unexpected $end, expecting T_VARIABLE or T_END_HEREDOC or T_DOLLAR_OPEN_CURLY_BRACES or T_CURLY_OPEN in I:\home\aquaphor.kg\www\template\blocks.inc.php on line 147
+[29-Aug-2016 03:38:47 UTC] PHP Parse error:  syntax error, unexpected $end, expecting T_VARIABLE or T_END_HEREDOC or T_DOLLAR_OPEN_CURLY_BRACES or T_CURLY_OPEN in I:\home\aquaphor.kg\www\template\blocks.inc.php on line 148
+[29-Aug-2016 03:38:48 UTC] PHP Parse error:  syntax error, unexpected $end, expecting T_VARIABLE or T_END_HEREDOC or T_DOLLAR_OPEN_CURLY_BRACES or T_CURLY_OPEN in I:\home\aquaphor.kg\www\template\blocks.inc.php on line 148
+[07-Sep-2016 02:21:19 UTC] PHP Notice:  Undefined variable: poleznye_news in I:\home\aquaphor.kg\www\template\info.inc.php on line 79
+[07-Sep-2016 02:22:37 UTC] PHP Notice:  Undefined variable: poleznye_news in I:\home\aquaphor.kg\www\template\info.inc.php on line 79
+[07-Sep-2016 02:22:39 UTC] PHP Notice:  Undefined variable: poleznye_news in I:\home\aquaphor.kg\www\template\info.inc.php on line 79
+[07-Sep-2016 02:22:49 UTC] PHP Notice:  Undefined variable: poleznye_news in I:\home\aquaphor.kg\www\template\info.inc.php on line 79
+[07-Sep-2016 02:23:05 UTC] PHP Notice:  Undefined variable: poleznye_news in I:\home\aquaphor.kg\www\template\info.inc.php on line 79
+[07-Sep-2016 02:23:14 UTC] PHP Notice:  Undefined variable: poleznye_news in I:\home\aquaphor.kg\www\template\info.inc.php on line 79
+[07-Sep-2016 02:23:25 UTC] PHP Notice:  Undefined variable: poleznye_news in I:\home\aquaphor.kg\www\template\info.inc.php on line 79
+[07-Sep-2016 02:23:33 UTC] PHP Notice:  Undefined variable: poleznye_news in I:\home\aquaphor.kg\www\template\info.inc.php on line 79
+[07-Sep-2016 02:24:23 UTC] PHP Notice:  Undefined variable: poleznye_news in I:\home\aquaphor.kg\www\template\info.inc.php on line 79
+[07-Sep-2016 02:25:52 UTC] PHP Notice:  Undefined variable: poleznye_news in I:\home\aquaphor.kg\www\template\info.inc.php on line 79
+[07-Sep-2016 02:26:13 UTC] PHP Notice:  Undefined variable: poleznye_news in I:\home\aquaphor.kg\www\template\info.inc.php on line 79
+[07-Sep-2016 02:26:15 UTC] PHP Notice:  Undefined variable: poleznye_news in I:\home\aquaphor.kg\www\template\info.inc.php on line 79
+[07-Sep-2016 02:27:24 UTC] PHP Notice:  Undefined variable: poleznye_news in I:\home\aquaphor.kg\www\template\info.inc.php on line 79
+[07-Sep-2016 02:28:16 UTC] PHP Notice:  Undefined variable: poleznye_news in I:\home\aquaphor.kg\www\template\info.inc.php on line 79
+[07-Sep-2016 02:28:45 UTC] PHP Notice:  Undefined variable: poleznye_news in I:\home\aquaphor.kg\www\template\info.inc.php on line 79
+[07-Sep-2016 02:29:29 UTC] PHP Notice:  Undefined variable: poleznye_news in I:\home\aquaphor.kg\www\template\info.inc.php on line 79
+[07-Sep-2016 02:29:51 UTC] PHP Notice:  Undefined variable: poleznye_news in I:\home\aquaphor.kg\www\template\info.inc.php on line 79
+[07-Sep-2016 02:30:22 UTC] PHP Notice:  Undefined variable: poleznye_news in I:\home\aquaphor.kg\www\template\info.inc.php on line 79
+[07-Sep-2016 02:30:54 UTC] PHP Notice:  Undefined variable: poleznye_news in I:\home\aquaphor.kg\www\template\info.inc.php on line 79
+[07-Sep-2016 02:31:26 UTC] PHP Notice:  Undefined variable: poleznye_news in I:\home\aquaphor.kg\www\template\info.inc.php on line 79
+[07-Sep-2016 02:32:07 UTC] PHP Notice:  Undefined variable: poleznye_news in I:\home\aquaphor.kg\www\template\info.inc.php on line 79
+[07-Sep-2016 02:32:14 UTC] PHP Notice:  Undefined variable: poleznye_news in I:\home\aquaphor.kg\www\template\info.inc.php on line 79
+[07-Sep-2016 02:32:37 UTC] PHP Notice:  Undefined variable: poleznye_news in I:\home\aquaphor.kg\www\template\info.inc.php on line 79
+[07-Sep-2016 02:32:51 UTC] PHP Notice:  Undefined variable: poleznye_news in I:\home\aquaphor.kg\www\template\info.inc.php on line 79
+[07-Sep-2016 02:33:23 UTC] PHP Notice:  Undefined variable: poleznye_news in I:\home\aquaphor.kg\www\template\info.inc.php on line 79
+[07-Sep-2016 02:40:40 UTC] PHP Notice:  Undefined variable: poleznye_news in I:\home\aquaphor.kg\www\template\info.inc.php on line 79
+[07-Sep-2016 03:44:46 UTC] PHP Parse error:  syntax error, unexpected '<' in I:\home\aquaphor.kg\www\content\news\poleznye_news.inc.php on line 2
+[07-Sep-2016 03:44:56 UTC] PHP Parse error:  syntax error, unexpected '<' in I:\home\aquaphor.kg\www\content\news\poleznye_news.inc.php on line 11
+[07-Sep-2016 03:45:06 UTC] PHP Parse error:  syntax error, unexpected '<' in I:\home\aquaphor.kg\www\content\news\poleznye_news.inc.php on line 12
+[07-Sep-2016 03:45:39 UTC] PHP Warning:  include(path/to/show_news.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in I:\home\aquaphor.kg\www\template\info.inc.php on line 69
+[07-Sep-2016 03:45:39 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'path/to/show_news.php' for inclusion (include_path='.;C:\php\pear') in I:\home\aquaphor.kg\www\template\info.inc.php on line 69
+[07-Sep-2016 03:47:08 UTC] PHP Warning:  include(path/to/news/show_news.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in I:\home\aquaphor.kg\www\template\info.inc.php on line 69
+[07-Sep-2016 03:47:08 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'path/to/news/show_news.php' for inclusion (include_path='.;C:\php\pear') in I:\home\aquaphor.kg\www\template\info.inc.php on line 69
+[30-Oct-2018 08:44:01 UTC] PHP Parse error:  syntax error, unexpected T_STRING in I:\home\aquaphor.kg\www\config.inc.php on line 7
+[25-Mar-2021 02:22:53 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 138
+[25-Mar-2021 02:22:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at Z:\home\aquaphor.kg\www\template\blocks.inc.php:138) in Z:\home\aquaphor.kg\www\func.inc.php on line 7
+[25-Mar-2021 02:22:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at Z:\home\aquaphor.kg\www\template\blocks.inc.php:138) in Z:\home\aquaphor.kg\www\func.inc.php on line 8
+[25-Mar-2021 02:22:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at Z:\home\aquaphor.kg\www\template\blocks.inc.php:138) in Z:\home\aquaphor.kg\www\func.inc.php on line 9
+[25-Mar-2021 02:22:53 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 138
+[25-Mar-2021 02:22:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at Z:\home\aquaphor.kg\www\template\blocks.inc.php:138) in Z:\home\aquaphor.kg\www\func.inc.php on line 7
+[25-Mar-2021 02:22:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at Z:\home\aquaphor.kg\www\template\blocks.inc.php:138) in Z:\home\aquaphor.kg\www\func.inc.php on line 8
+[25-Mar-2021 02:22:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at Z:\home\aquaphor.kg\www\template\blocks.inc.php:138) in Z:\home\aquaphor.kg\www\func.inc.php on line 9
+[25-Mar-2021 02:22:55 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 138
+[25-Mar-2021 02:23:30 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 126
+[25-Mar-2021 02:23:30 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 158
+[25-Mar-2021 02:23:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at Z:\home\aquaphor.kg\www\template\blocks.inc.php:126) in Z:\home\aquaphor.kg\www\func.inc.php on line 7
+[25-Mar-2021 02:23:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at Z:\home\aquaphor.kg\www\template\blocks.inc.php:126) in Z:\home\aquaphor.kg\www\func.inc.php on line 8
+[25-Mar-2021 02:23:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at Z:\home\aquaphor.kg\www\template\blocks.inc.php:126) in Z:\home\aquaphor.kg\www\func.inc.php on line 9
+[25-Mar-2021 02:23:30 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 126
+[25-Mar-2021 02:23:30 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 158
+[25-Mar-2021 02:23:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at Z:\home\aquaphor.kg\www\template\blocks.inc.php:126) in Z:\home\aquaphor.kg\www\func.inc.php on line 7
+[25-Mar-2021 02:23:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at Z:\home\aquaphor.kg\www\template\blocks.inc.php:126) in Z:\home\aquaphor.kg\www\func.inc.php on line 8
+[25-Mar-2021 02:23:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at Z:\home\aquaphor.kg\www\template\blocks.inc.php:126) in Z:\home\aquaphor.kg\www\func.inc.php on line 9
+[25-Mar-2021 02:23:32 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 126
+[25-Mar-2021 02:23:32 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 158
+[25-Mar-2021 02:24:03 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 126
+[25-Mar-2021 02:24:03 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 158
+[25-Mar-2021 02:24:36 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 125
+[25-Mar-2021 02:24:36 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 146
+[25-Mar-2021 02:24:36 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 178
+[25-Mar-2021 02:24:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at Z:\home\aquaphor.kg\www\template\blocks.inc.php:125) in Z:\home\aquaphor.kg\www\func.inc.php on line 7
+[25-Mar-2021 02:24:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at Z:\home\aquaphor.kg\www\template\blocks.inc.php:125) in Z:\home\aquaphor.kg\www\func.inc.php on line 8
+[25-Mar-2021 02:24:37 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 125
+[25-Mar-2021 02:24:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at Z:\home\aquaphor.kg\www\template\blocks.inc.php:125) in Z:\home\aquaphor.kg\www\func.inc.php on line 9
+[25-Mar-2021 02:24:37 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 146
+[25-Mar-2021 02:24:37 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 178
+[25-Mar-2021 02:24:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at Z:\home\aquaphor.kg\www\template\blocks.inc.php:125) in Z:\home\aquaphor.kg\www\func.inc.php on line 7
+[25-Mar-2021 02:24:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at Z:\home\aquaphor.kg\www\template\blocks.inc.php:125) in Z:\home\aquaphor.kg\www\func.inc.php on line 8
+[25-Mar-2021 02:24:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at Z:\home\aquaphor.kg\www\template\blocks.inc.php:125) in Z:\home\aquaphor.kg\www\func.inc.php on line 9
+[25-Mar-2021 02:24:38 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 125
+[25-Mar-2021 02:24:38 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 146
+[25-Mar-2021 02:24:38 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 178
+[25-Mar-2021 02:24:42 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 125
+[25-Mar-2021 02:24:42 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 146
+[25-Mar-2021 02:24:42 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 178
+[25-Mar-2021 02:24:43 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 125
+[25-Mar-2021 02:24:43 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 146
+[25-Mar-2021 02:24:43 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 178
+[25-Mar-2021 02:24:43 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 125
+[25-Mar-2021 02:24:43 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 146
+[25-Mar-2021 02:24:43 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 178
+[25-Mar-2021 02:25:07 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 126
+[25-Mar-2021 02:25:07 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 158
+[25-Mar-2021 02:25:27 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 126
+[25-Mar-2021 02:25:27 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 158
+[25-Mar-2021 02:25:44 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 126
+[25-Mar-2021 02:25:44 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 158
+[25-Mar-2021 02:25:59 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 126
+[25-Mar-2021 02:25:59 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 158
+[25-Mar-2021 02:26:19 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 126
+[25-Mar-2021 02:26:19 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 158
+[25-Mar-2021 02:26:19 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 126
+[25-Mar-2021 02:26:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at Z:\home\aquaphor.kg\www\template\blocks.inc.php:126) in Z:\home\aquaphor.kg\www\func.inc.php on line 7
+[25-Mar-2021 02:26:20 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 158
+[25-Mar-2021 02:26:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at Z:\home\aquaphor.kg\www\template\blocks.inc.php:126) in Z:\home\aquaphor.kg\www\func.inc.php on line 8
+[25-Mar-2021 02:26:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at Z:\home\aquaphor.kg\www\template\blocks.inc.php:126) in Z:\home\aquaphor.kg\www\func.inc.php on line 7
+[25-Mar-2021 02:26:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at Z:\home\aquaphor.kg\www\template\blocks.inc.php:126) in Z:\home\aquaphor.kg\www\func.inc.php on line 9
+[25-Mar-2021 02:26:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at Z:\home\aquaphor.kg\www\template\blocks.inc.php:126) in Z:\home\aquaphor.kg\www\func.inc.php on line 8
+[25-Mar-2021 02:26:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at Z:\home\aquaphor.kg\www\template\blocks.inc.php:126) in Z:\home\aquaphor.kg\www\func.inc.php on line 9
+[25-Mar-2021 02:26:30 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 125
+[25-Mar-2021 02:26:30 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 146
+[25-Mar-2021 02:26:30 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 178
+[25-Mar-2021 02:26:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at Z:\home\aquaphor.kg\www\template\blocks.inc.php:125) in Z:\home\aquaphor.kg\www\func.inc.php on line 7
+[25-Mar-2021 02:26:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at Z:\home\aquaphor.kg\www\template\blocks.inc.php:125) in Z:\home\aquaphor.kg\www\func.inc.php on line 8
+[25-Mar-2021 02:26:30 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 125
+[25-Mar-2021 02:26:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at Z:\home\aquaphor.kg\www\template\blocks.inc.php:125) in Z:\home\aquaphor.kg\www\func.inc.php on line 9
+[25-Mar-2021 02:26:30 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 146
+[25-Mar-2021 02:26:30 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 178
+[25-Mar-2021 02:26:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at Z:\home\aquaphor.kg\www\template\blocks.inc.php:125) in Z:\home\aquaphor.kg\www\func.inc.php on line 7
+[25-Mar-2021 02:26:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at Z:\home\aquaphor.kg\www\template\blocks.inc.php:125) in Z:\home\aquaphor.kg\www\func.inc.php on line 8
+[25-Mar-2021 02:26:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at Z:\home\aquaphor.kg\www\template\blocks.inc.php:125) in Z:\home\aquaphor.kg\www\func.inc.php on line 9
+[25-Mar-2021 02:26:36 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 125
+[25-Mar-2021 02:26:36 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 146
+[25-Mar-2021 02:26:36 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 178
+[25-Mar-2021 02:26:49 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 125
+[25-Mar-2021 02:26:49 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 146
+[25-Mar-2021 02:26:49 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 178
+[25-Mar-2021 02:26:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at Z:\home\aquaphor.kg\www\template\blocks.inc.php:125) in Z:\home\aquaphor.kg\www\func.inc.php on line 7
+[25-Mar-2021 02:26:49 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 125
+[25-Mar-2021 02:26:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at Z:\home\aquaphor.kg\www\template\blocks.inc.php:125) in Z:\home\aquaphor.kg\www\func.inc.php on line 8
+[25-Mar-2021 02:26:49 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 146
+[25-Mar-2021 02:26:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at Z:\home\aquaphor.kg\www\template\blocks.inc.php:125) in Z:\home\aquaphor.kg\www\func.inc.php on line 9
+[25-Mar-2021 02:26:49 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 178
+[25-Mar-2021 02:26:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at Z:\home\aquaphor.kg\www\template\blocks.inc.php:125) in Z:\home\aquaphor.kg\www\func.inc.php on line 7
+[25-Mar-2021 02:26:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at Z:\home\aquaphor.kg\www\template\blocks.inc.php:125) in Z:\home\aquaphor.kg\www\func.inc.php on line 8
+[25-Mar-2021 02:26:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at Z:\home\aquaphor.kg\www\template\blocks.inc.php:125) in Z:\home\aquaphor.kg\www\func.inc.php on line 9
+[25-Mar-2021 02:26:50 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 125
+[25-Mar-2021 02:26:50 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 146
+[25-Mar-2021 02:26:50 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 178
+[25-Mar-2021 02:26:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at Z:\home\aquaphor.kg\www\template\blocks.inc.php:125) in Z:\home\aquaphor.kg\www\func.inc.php on line 7
+[25-Mar-2021 02:26:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at Z:\home\aquaphor.kg\www\template\blocks.inc.php:125) in Z:\home\aquaphor.kg\www\func.inc.php on line 8
+[25-Mar-2021 02:26:50 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 125
+[25-Mar-2021 02:26:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at Z:\home\aquaphor.kg\www\template\blocks.inc.php:125) in Z:\home\aquaphor.kg\www\func.inc.php on line 9
+[25-Mar-2021 02:26:50 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 146
+[25-Mar-2021 02:26:50 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 178
+[25-Mar-2021 02:26:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at Z:\home\aquaphor.kg\www\template\blocks.inc.php:125) in Z:\home\aquaphor.kg\www\func.inc.php on line 7
+[25-Mar-2021 02:26:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at Z:\home\aquaphor.kg\www\template\blocks.inc.php:125) in Z:\home\aquaphor.kg\www\func.inc.php on line 8
+[25-Mar-2021 02:26:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at Z:\home\aquaphor.kg\www\template\blocks.inc.php:125) in Z:\home\aquaphor.kg\www\func.inc.php on line 9
+[25-Mar-2021 02:26:59 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 125
+[25-Mar-2021 02:26:59 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 145
+[25-Mar-2021 02:26:59 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 166
+[25-Mar-2021 02:26:59 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 198
+[25-Mar-2021 02:26:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at Z:\home\aquaphor.kg\www\template\blocks.inc.php:125) in Z:\home\aquaphor.kg\www\func.inc.php on line 7
+[25-Mar-2021 02:26:59 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 125
+[25-Mar-2021 02:26:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at Z:\home\aquaphor.kg\www\template\blocks.inc.php:125) in Z:\home\aquaphor.kg\www\func.inc.php on line 8
+[25-Mar-2021 02:26:59 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 145
+[25-Mar-2021 02:26:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at Z:\home\aquaphor.kg\www\template\blocks.inc.php:125) in Z:\home\aquaphor.kg\www\func.inc.php on line 9
+[25-Mar-2021 02:26:59 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 166
+[25-Mar-2021 02:26:59 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 198
+[25-Mar-2021 02:26:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at Z:\home\aquaphor.kg\www\template\blocks.inc.php:125) in Z:\home\aquaphor.kg\www\func.inc.php on line 7
+[25-Mar-2021 02:26:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at Z:\home\aquaphor.kg\www\template\blocks.inc.php:125) in Z:\home\aquaphor.kg\www\func.inc.php on line 8
+[25-Mar-2021 02:26:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at Z:\home\aquaphor.kg\www\template\blocks.inc.php:125) in Z:\home\aquaphor.kg\www\func.inc.php on line 9
+[25-Mar-2021 02:27:01 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 125
+[25-Mar-2021 02:27:01 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 145
+[25-Mar-2021 02:27:01 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 166
+[25-Mar-2021 02:27:01 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 198
+[25-Mar-2021 02:28:24 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 125
+[25-Mar-2021 02:28:24 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 145
+[25-Mar-2021 02:28:24 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 166
+[25-Mar-2021 02:28:24 UTC] PHP Notice:  Undefined variable: news in Z:\home\aquaphor.kg\www\template\blocks.inc.php on line 198
+[25-Mar-2021 02:28:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at Z:\home\aquaphor.kg\www\template\blocks.inc.php:125) in Z:\home\aquaphor.kg\www\func.inc.php on line 7
+[25-Mar-2021 02:28:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at Z:\home\aquaphor.kg\www\template\blocks.inc.php:125) in Z:\home\aquaphor.kg\www\func.inc.php on line 8
+[25-Mar-2021 02:28:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at Z:\home\aquaphor.kg\www\template\blocks.inc.php:125) in Z:\home\aquaphor.kg\www\func.inc.php on line 9

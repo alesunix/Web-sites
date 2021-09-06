@@ -1,0 +1,5 @@
+User-agent: *
+Allow: / 
+Crawl-delay: 1
+Host: http://bsk-pro.kg
+Sitemap: http://bsk-pro.kg/sitemap.xml

@@ -1,0 +1,1 @@
+[23-Apr-2016 21:11:46] PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php/session) failed: Permission denied (13) in /var/www/vhosts/ccs.kg/tlc.ccs.kg/admin/func.inc.php on line 18

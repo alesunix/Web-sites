@@ -1,0 +1,15 @@
+[24-Sep-2020 12:23:44 UTC] PHP Notice:  Undefined variable: contact in I:\home\aidan-express.kg\www\template\info.inc.php on line 87
+[24-Sep-2020 12:23:44 UTC] PHP Notice:  Undefined variable: info in I:\home\aidan-express.kg\www\template\info.inc.php on line 88
+[24-Sep-2020 12:23:44 UTC] PHP Notice:  Undefined variable: distance in I:\home\aidan-express.kg\www\template\info.inc.php on line 91
+[24-Sep-2020 12:23:44 UTC] PHP Notice:  Undefined variable: facebook in I:\home\aidan-express.kg\www\template\info.inc.php on line 92
+[24-Sep-2020 12:23:54 UTC] PHP Notice:  Undefined variable: contact in I:\home\aidan-express.kg\www\template\info.inc.php on line 87
+[24-Sep-2020 12:23:54 UTC] PHP Notice:  Undefined variable: info in I:\home\aidan-express.kg\www\template\info.inc.php on line 88
+[24-Sep-2020 12:23:54 UTC] PHP Notice:  Undefined variable: distance in I:\home\aidan-express.kg\www\template\info.inc.php on line 91
+[24-Sep-2020 12:23:54 UTC] PHP Notice:  Undefined variable: facebook in I:\home\aidan-express.kg\www\template\info.inc.php on line 92
+[24-Sep-2020 13:07:07 UTC] PHP Notice:  Undefined variable: menu in I:\home\aidan-express.kg\www\template\info.inc.php on line 111
+[24-Sep-2020 13:07:39 UTC] PHP Notice:  Undefined variable: menu in I:\home\aidan-express.kg\www\template\info.inc.php on line 110
+[24-Sep-2020 13:08:12 UTC] PHP Notice:  Undefined variable: menu in I:\home\aidan-express.kg\www\template\info.inc.php on line 109
+[24-Sep-2020 13:09:15 UTC] PHP Notice:  Undefined variable: menu in I:\home\aidan-express.kg\www\template\info.inc.php on line 110
+[24-Sep-2020 13:09:23 UTC] PHP Notice:  Undefined variable: menu in I:\home\aidan-express.kg\www\template\info.inc.php on line 110
+[24-Sep-2020 13:09:30 UTC] PHP Notice:  Undefined variable: menu in I:\home\aidan-express.kg\www\template\info.inc.php on line 110
+[24-Sep-2020 13:09:34 UTC] PHP Notice:  Undefined variable: menu in I:\home\aidan-express.kg\www\template\info.inc.php on line 110

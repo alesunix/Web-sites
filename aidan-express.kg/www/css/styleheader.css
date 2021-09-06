@@ -1,0 +1,99 @@
+.headerstyle {
+justify-content: space-evenly;
+flex-wrap: wrap;
+align-items: flex-end;
+display: -webkit-box;
+display: -moz-box;
+display: -ms-flexbox;
+display: -webkit-flex;
+display: flex;
+}
+.tabstyle {
+position: relative;
+overflow: visible;
+#margin: 5px;
+#width: 45%;
+#background: #1111119e;
+font-family: inherit;
+font-size: 1em;
+text-align: center;
+}
+.divliccontainer {
+position: relative;
+height: 500px;
+background: linear-gradient(to bottom, #fffff5 0%, #ff7466de 100%);
+}
+.divlic {
+	margin-left: 100px;
+}
+.divlictext {
+	position: relative;
+top: -500px;
+margin-left: 800px;
+}
+.diwell {
+background: linear-gradient(to bottom, #fffff5 0%, #ff48006e 100%);
+padding: 60px 60px 60px 260px;
+}
+.tabl {
+justify-content: center;
+flex-wrap: wrap;
+display: -webkit-box;
+display: -moz-box;
+display: -ms-flexbox;
+display: -webkit-flex;
+display: flex;
+align-items: center;
+}
+.tab {
+position: relative;
+overflow: hidden;
+width: 40%;
+font-family: inherit;
+font-size: 1em;
+text-align: left;
+}
+
+/* MEDIA QUERIES */
+@media all and (max-width: 950px) and (min-width: 701px){
+.tabstyle {
+    display:block;
+    width:47%;
+  }
+  .tab {
+    display:block;
+    width:47%;
+  }
+}
+@media all and (max-width: 700px) and (min-width: 0px){
+	.divliccontainer {
+position: relative;
+height: 500px;
+background: linear-gradient(to bottom, #fffff5 0%, #ff7466de 100%);
+}
+.divlic {
+	margin-left: 0px;
+}
+.divlictext {
+	top: -50px;
+margin-left: 0px;
+}
+	.diwell {
+padding: 20px;
+}
+	.tab {
+    display: block;
+    width:100%;
+	#text-align: center;
+	padding: 10px;
+  }
+.tabstyle {
+    display: block;
+    width:100%;
+	text-align: center;
+	padding-top: 13px;
+  }
+  .headerstyle {
+position: absolute;
+}
+}

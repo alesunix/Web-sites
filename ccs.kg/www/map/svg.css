@@ -1,0 +1,102 @@
+			.land{
+				fill: wheat;
+				fill-opacity: 1;
+				stroke:#333;
+				stroke-opacity: 1;
+				stroke-width:0.3;
+			}
+			.land:hover {
+             fill: #438CB9;
+			 cursor: pointer;
+            }
+  .text {
+  font-size:8px;
+  fill:#333;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  }
+.textCIS {
+  font-size:14px;
+  fill:#333;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+.landxx
+{
+   fill:red;
+   stroke:#ffffff;
+   stroke-width:0.5;
+}
+.landxx:hover {
+  fill: #1669ad;
+  cursor: pointer;
+}
+
+.landxx.am {
+  fill: #0bac0b;
+}
+.landxx.az {
+  fill: #b132cd;
+}
+.landxx.ua {
+  fill: indianred;
+}
+.landxx.uz {
+  fill: #8c851e;
+}
+.landxx.tj {
+  fill: #ff5722;
+}
+.landxx.kg {
+  fill: red;
+}
+.landxx.kz {
+  fill: #31a6d7;
+}
+.landxx.by {
+  fill: #3f51b5;
+}
+.landxx.ru {
+  fill: darkseagreen;
+}
+
+.landxx.am:hover {
+  fill: #1669ad;
+}
+.landxx.az:hover {
+  fill: #1669ad;
+}
+.landxx.ua:hover {
+  fill: #1669ad;
+}
+.landxx.uz:hover {
+  fill: #1669ad;
+}
+.landxx.tj:hover {
+  fill: #1669ad;
+}
+.landxx.kz:hover {
+  fill: #1669ad;
+}
+.landxx.kg:hover {
+  fill: #1669ad;
+}
+.landxx.by:hover {
+  fill: #1669ad;
+}
+.landxx.ru:hover {
+  fill: #1669ad;
+}
+#tooltip {
+  background: cornsilk;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 10px;
+  text-align: left;
+}
+
+@media all and (max-width: 700px) and (min-width: 0px){
+	#tooltip {
+font-size: 10px;
+line-height: 10px;
+}
+}

@@ -1,0 +1,99 @@
+nav ul {
+  list-style: none;
+  margin: 0 0 1px 2px;
+  padding: 0;
+}
+.topmenu:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.topmenu > li {
+	top: -10px;
+  width: 100%;
+  #float: left;
+  #position: relative;
+  line-height: 39px;
+}
+.topmenu > li > a {
+float: none;
+color: #fff;
+#font-size: 14px;
+display: block;
+padding: 0px 10px 0px 10px;
+#border-style: solid;
+border-color: #303b44;
+border-width: 0 1px 0 0;
+text-decoration: none;
+-webkit-transition: background-color .2s linear;
+transition: background-color .2s linear;
+#text-transform: uppercase;
+margin-top: -10px;
+border-bottom: solid transparent;
+border-width: 10px;
+}
+.topmenu li a:hover {
+	color: #fff;
+text-decoration: none;
+background-color: #2e3a43;
+}
+.submenu-link:after {
+  #content: "\f107";
+  font-family: "FontAwesome";
+  color: inherit;
+  margin-left: 10px;
+}
+.submenu {
+  background: #515b62;
+	position: absolute;
+	left: 0;
+	top: 100%;
+	z-index: 5;
+	width: 350px;
+  opacity: 0;
+	transform: scaleY(0);
+	transform-origin :0 0;
+  transition: .5s ease-in-out;
+}
+.submenu a {
+  color: white;
+    display: block;
+    text-decoration: none;
+    padding: 0px 32px;
+    border-bottom: 1px solid #2d3942;
+    -webkit-transition: background-color .1s linear;
+    transition: background-color .1s linear;
+	text-transform: none;
+	padding: 9px 32px;
+}
+.submenu li:last-child a {border-bottom: none;}
+.topmenu > li:hover .submenu {
+  opacity: 1;
+	transform: scaleY(1);
+}
+@media all and (max-width: 768px) and (min-width: 0px){
+	.topmenu > li:hover .submenu {
+	position: static;
+}
+
+	.topmenu > li > a {
+font-weight: bold;
+}
+	.submenu a {
+		line-height: 40px;
+  color: #4c4c4c;
+	text-align: left;
+	#padding: 0px 15px;
+	line-height: 28px;
+	font-size: 15px;
+	border-bottom: 1px solid rgba(255,255,255,.1);
+}
+.submenu {
+  background: #fafdff;
+  width: 100%;
+}
+.container-fluid {
+	width: 100%;
+}
+
+}

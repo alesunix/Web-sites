@@ -1,0 +1,5 @@
+User-agent: *
+Allow: / 
+Crawl-delay: 1
+Host: https://tlc.ccs.kg/
+Sitemap: https://tlc.ccs.kg/sitemap.xml

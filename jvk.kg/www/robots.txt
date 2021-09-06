@@ -1,0 +1,6 @@
+User-agent: *
+Allow: / 
+Disallow: /admin/
+Crawl-delay: 1
+Host: https://jvk.kg
+Sitemap: https://jvk.kg/sitemap.xml

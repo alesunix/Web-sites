@@ -1,0 +1,34 @@
+<div class='well well-small'>
+
+
+<div class='miniwell'>
+<div class="map">
+<div class="box">
+  <button id="submit" onclick="text_out()" data-src='/i/tel.png' class="btn"><i class="btn-water" onclick="text_out()" data-src='/i/tel.png'></i>Водопроводные сети</button>
+  <button onclick="text_out2()" data-src='/i/Logo.png' class="btn"><i class="btn-sewage" onclick="text_out2()" data-src='i/Logo.png'></i>Канализационные сети</button>
+  <hr>  
+  <div style="width: 35%;">
+    <p id="text_change"></p>
+    </div>	
+	
+	<div class="image-box">
+   <div class="image">
+</div>
+</div>
+<div class="address">
+Телефон единой приемной:<br>
+<address style="color: red;">03722 7-33-20</address>
+</div></div>
+
+<div class='diwell'>
+<h2>Новости</h2>
+<div id="loadcontent" class='list'>
+</div>
+
+
+<a href="/press/companynews.html" class="btn" style="display: block; float: right;position: relative;top: 30px;">Все новости</a>
+</div>
+
+
+</div class='miniwell'>
+</div><!--/well -->

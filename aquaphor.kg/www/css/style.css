@@ -1,0 +1,314 @@
+audio, canvas, video {
+    height: 540px;
+}
+.poleznye_news {
+    float: center; /* Выравнивание */
+	display: inline-block; /* выровнять блоки по горизонтали */
+	vertical-align: middle; /* (для дочерних) при добавлении контента сохраняет блоки на одной вертикальной плоскости */
+	white-space: nowrap; /* предотвращает падение последнего элемента на следующую строку */
+	overflow: hidden; /* предотвращает растягивание блока в IE6 */
+    border: 3px solid #fff; /* Параметры рамки */
+	border-radius: 3px; /* Радиус скругления */
+    padding: 1px; /* Поля внутри блока */
+    margin: 1px 1px 1px; /* Отступы вокруг */
+    background: rgb(243, 251, 255); /* Цвет фона */ 
+	 box-shadow:
+   0 1px 4px rgba(0, 0, 0, .3),
+   -23px 0 20px -23px rgba(0, 0, 0, .8),
+   23px 0 20px -23px rgba(0, 0, 0, .8),
+   0 0 40px rgba(0, 0, 0, .1) inset; /* Параметры тени */
+   }
+   .poleznye_news figcaption {
+    margin: 0 auto 0px; /* Отступы вокруг абзаца */
+   }
+.index {
+    float: center; /* Выравнивание */
+	display: inline-block; /* выровнять блоки по горизонтали */
+	vertical-align: middle; /* (для дочерних) при добавлении контента сохраняет блоки на одной вертикальной плоскости */
+	white-space: nowrap; /* предотвращает падение последнего элемента на следующую строку */
+	overflow: hidden; /* предотвращает растягивание блока в IE6 */
+    border: 3px solid #fff; /* Параметры рамки */
+	border-radius: 3px; /* Радиус скругления */
+    padding: 1px; /* Поля внутри блока */
+    margin: 1px 1px 1px; /* Отступы вокруг */
+    background: rgb(243, 251, 255); /* Цвет фона */ 
+	 box-shadow:
+   0 1px 4px rgba(0, 0, 0, .3),
+   -23px 0 20px -23px rgba(0, 0, 0, .8),
+   23px 0 20px -23px rgba(0, 0, 0, .8),
+   0 0 40px rgba(0, 0, 0, .1) inset; /* Параметры тени */
+   }
+   .sign figcaption {
+    margin: 0 auto 0px; /* Отступы вокруг абзаца */
+   }
+
+ .sign00 {
+	 float: initial;
+	 #white-space: nowrap;
+overflow: hidden;
+	 #margin: 1px 3px 1px;
+	 background: #ffffff;
+	 opacity: 1;
+	 display: inline-block;
+padding: 4px 4px;
+margin-bottom: 0;
+font-size: 14px;
+line-height: 20px;
+color: #333;
+text-align: center;
+	 vertical-align: middle;
+cursor: pointer;
+#background-color: #f5f5f5;
+	 border-color: rgba(0,0,0,0.1) rgba(0,0,0,0.1) rgba(0,0,0,0.25);
+    border-bottom-color: rgba(0, 0, 0, 0.25);
+border-bottom-color: #a2a2a2;
+	 border: 1px solid #bbb;
+	 border-color: rgba(0,0,0,0.1) rgba(0,0,0,0.1) rgba(0,0,0,0.25);
+    border-bottom-color: rgba(0, 0, 0, 0.25);
+border-bottom-color: #a2a2a2;
+border-radius: 4px;	 
+box-shadow: inset 0 1px 0 rgba(255,255,255,0.2),0 1px 2px rgba(0,0,0,0.05);
+font-weight: 400;
+min-height: 350px;
+word-wrap: anywhere;
+width: 220px;
+}
+.sign00:hover {
+    filter: alpha (Opacity=100);
+    opacity: 1;
+	-webkit-box-shadow: 0px -4px 5px 0px rgba(0,0,0,0.46);
+-moz-box-shadow: 0px -4px 5px 0px rgba(0,0,0,0.46);
+box-shadow: 0px -4px 5px 0px rgba(0,0,0,0.46);
+
+
+   }
+   .sign00 figcaption {
+    margin: 0 auto 0px; /* Отступы вокруг абзаца */
+   }
+   
+   .sign0 {
+    width: 23%; height: 100%; /* Размеры */
+    float: initial; /* Выравнивание */
+	display: inline-block; /* выровнять блоки по горизонтали */
+	vertical-align: middle; /* (для дочерних) при добавлении контента сохраняет блоки на одной вертикальной плоскости */
+	white-space: nowrap; /* предотвращает падение последнего элемента на следующую строку */
+	overflow: hidden; /* предотвращает растягивание блока в IE6 */
+    border: 1px solid #cecece; /* Параметры рамки */
+	border-radius: 15px; /* Радиус скругления */
+    padding: 0px;   /* Поля внутри блока */
+    margin: 1px 3px 1px; /* Отступы вокруг */
+    background: #ffffff; /* Цвет фона */ 
+	-webkit-box-shadow: 0px 9px 5px -4px rgba(0,0,0,0.46);
+-moz-box-shadow: 0px 9px 5px -4px rgba(0,0,0,0.46);
+box-shadow: 0px 9px 5px -4px rgba(0,0,0,0.46);/* Параметры тени */
+
+    filter: alpha (Opacity=25);
+    opacity: 1;
+    -moz-transition: all 1s ease-in-out; /* эффект перехода для Firefox до версии 16.0 */
+    -webkit-transition: all 1s ease-in-out; /* эффект перехода для Chrome до версии 26.0, Safari, Android и iOS */
+    -o-transition: all 1s ease-in-out; /* эффект перехода для Opera до версии 12.10 */
+    transition: all 0.3s ease-in-out; /* эффект перехода для других браузеров */
+}
+.sign0:hover {
+    filter: alpha (Opacity=100);
+    opacity: 1;
+	-webkit-box-shadow: 0px -4px 5px 0px rgba(0,0,0,0.46);
+-moz-box-shadow: 0px -4px 5px 0px rgba(0,0,0,0.46);
+box-shadow: 0px -4px 5px 0px rgba(0,0,0,0.46);
+   }
+   .sign0 figcaption {
+    margin: 0 auto 0px; /* Отступы вокруг абзаца */
+   }
+   
+   .sign1 {
+    width: 23%; height: 340px; /* Размеры */
+    float: initial; /* Выравнивание */
+	display: inline-block; /* выровнять блоки по горизонтали */
+	vertical-align: middle; /* (для дочерних) при добавлении контента сохраняет блоки на одной вертикальной плоскости */
+	white-space: nowrap; /* предотвращает падение последнего элемента на следующую строку */
+	overflow: hidden; /* предотвращает растягивание блока в IE6 */
+    border: 1px solid #cecece; /* Параметры рамки */
+	border-radius: 15px; /* Радиус скругления */
+    padding: 0px;   /* Поля внутри блока */
+    margin: 1px 3px 1px; /* Отступы вокруг */
+    background: #ffffff; /* Цвет фона */ 
+	-webkit-box-shadow: 0px 9px 5px -4px rgba(0,0,0,0.46);
+-moz-box-shadow: 0px 9px 5px -4px rgba(0,0,0,0.46);
+box-shadow: 0px 9px 5px -4px rgba(0,0,0,0.46);/* Параметры тени */
+
+    filter: alpha (Opacity=25);
+    opacity: 1;
+    -moz-transition: all 1s ease-in-out; /* эффект перехода для Firefox до версии 16.0 */
+    -webkit-transition: all 1s ease-in-out; /* эффект перехода для Chrome до версии 26.0, Safari, Android и iOS */
+    -o-transition: all 1s ease-in-out; /* эффект перехода для Opera до версии 12.10 */
+    transition: all 1s ease-in-out; /* эффект перехода для других браузеров */
+}
+.sign1:hover {
+    filter: alpha (Opacity=100);
+    opacity: 1;
+	-webkit-box-shadow: 0px -4px 5px 0px rgba(0,0,0,0.46);
+-moz-box-shadow: 0px -4px 5px 0px rgba(0,0,0,0.46);
+box-shadow: 0px -4px 5px 0px rgba(0,0,0,0.46);
+   }
+   .sign1 figcaption {
+    margin: 0 auto 0px; /* Отступы вокруг абзаца */
+   }
+   
+   .sign2 {
+    width: 23%; height: 145px; /* Размеры */
+    float: initial; /* Выравнивание */
+	display: inline-block; /* выровнять блоки по горизонтали */
+	vertical-align: middle; /* (для дочерних) при добавлении контента сохраняет блоки на одной вертикальной плоскости */
+	white-space: nowrap; /* предотвращает падение последнего элемента на следующую строку */
+	overflow: hidden; /* предотвращает растягивание блока в IE6 */
+    border: 1px solid #cecece; /* Параметры рамки */
+	border-radius: 15px; /* Радиус скругления */
+    padding: 0px;   /* Поля внутри блока */
+    margin: 1px 3px 1px; /* Отступы вокруг */
+    background: #ffffff; /* Цвет фона */ 
+	-webkit-box-shadow: 0px 9px 5px -4px rgba(0,0,0,0.46);
+-moz-box-shadow: 0px 9px 5px -4px rgba(0,0,0,0.46);
+box-shadow: 0px 9px 5px -4px rgba(0,0,0,0.46);/* Параметры тени */
+
+    filter: alpha (Opacity=25);
+    opacity: 1;
+    -moz-transition: all 1s ease-in-out; /* эффект перехода для Firefox до версии 16.0 */
+    -webkit-transition: all 1s ease-in-out; /* эффект перехода для Chrome до версии 26.0, Safari, Android и iOS */
+    -o-transition: all 1s ease-in-out; /* эффект перехода для Opera до версии 12.10 */
+    transition: all 1s ease-in-out; /* эффект перехода для других браузеров */
+}
+.sign2:hover {
+    filter: alpha (Opacity=100);
+    opacity: 1;
+	-webkit-box-shadow: 0px -4px 5px 0px rgba(0,0,0,0.46);
+-moz-box-shadow: 0px -4px 5px 0px rgba(0,0,0,0.46);
+box-shadow: 0px -4px 5px 0px rgba(0,0,0,0.46);
+   }
+   .sign2 figcaption {
+    margin: 0 auto 0px; /* Отступы вокруг абзаца */
+   }
+   
+   .sign3 {
+    width: 240px; height: 145px; /* Размеры */
+    float: center; /* Выравнивание */
+	display: inline-block; /* выровнять блоки по горизонтали */
+	vertical-align: middle; /* (для дочерних) при добавлении контента сохраняет блоки на одной вертикальной плоскости */
+	white-space: nowrap; /* предотвращает падение последнего элемента на следующую строку */
+	overflow: hidden; /* предотвращает растягивание блока в IE6 */
+    border: 3px solid #fff; /* Параметры рамки */
+	border-radius: 3px; /* Радиус скругления */
+    padding: 1px; /* Поля внутри блока */
+    margin: 1px 1px 1px; /* Отступы вокруг */
+    background: #ffffff; /* Цвет фона */ 
+	box-shadow:
+   0 1px 4px rgba(0, 0, 0, .3),
+   -23px 0 20px -23px rgba(0, 0, 0, .8),
+   23px 0 20px -23px rgba(0, 0, 0, .8),
+   0 0 40px rgba(0, 0, 0, .1) inset;  /* Параметры тени */
+   }
+   .sign3 figcaption {
+    margin: 0 auto 0px; /* Отступы вокруг абзаца */
+   }
+   
+   .sign4 {
+    width: 23%; height: 320px; /* Размеры */
+    float: initial; /* Выравнивание */
+	display: inline-block; /* выровнять блоки по горизонтали */
+	vertical-align: middle; /* (для дочерних) при добавлении контента сохраняет блоки на одной вертикальной плоскости */
+	white-space: nowrap; /* предотвращает падение последнего элемента на следующую строку */
+	overflow: hidden; /* предотвращает растягивание блока в IE6 */
+    border: 1px solid #cecece; /* Параметры рамки */
+	border-radius: 15px; /* Радиус скругления */
+    padding: 0px;   /* Поля внутри блока */
+    margin: 1px 3px 1px; /* Отступы вокруг */
+    background: #ffffff; /* Цвет фона */ 
+	-webkit-box-shadow: 0px 9px 5px -4px rgba(0,0,0,0.46);
+-moz-box-shadow: 0px 9px 5px -4px rgba(0,0,0,0.46);
+box-shadow: 0px 9px 5px -4px rgba(0,0,0,0.46);/* Параметры тени */
+
+    filter: alpha (Opacity=25);
+    opacity: 1;
+    -moz-transition: all 1s ease-in-out; /* эффект перехода для Firefox до версии 16.0 */
+    -webkit-transition: all 1s ease-in-out; /* эффект перехода для Chrome до версии 26.0, Safari, Android и iOS */
+    -o-transition: all 1s ease-in-out; /* эффект перехода для Opera до версии 12.10 */
+    transition: all 0.3s ease-in-out; /* эффект перехода для других браузеров */
+}
+.sign4:hover {
+    filter: alpha (Opacity=100);
+    opacity: 1;
+	-webkit-box-shadow: 0px -4px 5px 0px rgba(0,0,0,0.46);
+-moz-box-shadow: 0px -4px 5px 0px rgba(0,0,0,0.46);
+box-shadow: 0px -4px 5px 0px rgba(0,0,0,0.46);
+   }
+   .sign4 figcaption {
+    margin: 0 auto 0px; /* Отступы вокруг абзаца */
+   }
+   
+   .sign5 {
+    width: 245px; height: 400px; /* Размеры */
+    float: center; /* Выравнивание */
+	display: inline-block; /* выровнять блоки по горизонтали */
+	vertical-align: middle; /* (для дочерних) при добавлении контента сохраняет блоки на одной вертикальной плоскости */
+	white-space: nowrap; /* предотвращает падение последнего элемента на следующую строку */
+	overflow: hidden; /* предотвращает растягивание блока в IE6 */
+    border: 3px solid #fff; /* Параметры рамки */
+	border-radius: 3px; /* Радиус скругления */
+    padding: 1px; /* Поля внутри блока */
+    margin: 1px 1px 1px; /* Отступы вокруг */
+    background: #ffffff; /* Цвет фона */ 
+	box-shadow:
+   0 1px 4px rgba(0, 0, 0, .3),
+   -23px 0 20px -23px rgba(0, 0, 0, .8),
+   23px 0 20px -23px rgba(0, 0, 0, .8),
+   0 0 40px rgba(0, 0, 0, .1) inset;  /* Параметры тени */
+   }
+   .sign5 figcaption {
+    margin: 0 auto 0px; /* Отступы вокруг абзаца */
+   }
+      .sign6 {
+    width: 219px; height: 380px; /* Размеры */
+    float: center; /* Выравнивание */
+	display: inline-block; /* выровнять блоки по горизонтали */
+	vertical-align: middle; /* (для дочерних) при добавлении контента сохраняет блоки на одной вертикальной плоскости */
+	white-space: nowrap; /* предотвращает падение последнего элемента на следующую строку */
+	overflow: hidden; /* предотвращает растягивание блока в IE6 */
+    border: 3px solid #fff; /* Параметры рамки */
+	border-radius: 3px; /* Радиус скругления */
+    padding: 1px; /* Поля внутри блока */
+    margin: 1px 1px 1px; /* Отступы вокруг */
+    background: #ffffff; /* Цвет фона */ 
+	box-shadow:
+   0 2px 4px rgba(0, 0, 0, .2); inset;  /* Параметры тени */
+   }
+   .sign6 figcaption {
+    margin: 0 auto 0px; /* Отступы вокруг абзаца */
+   }
+   
+   /* MEDIA QUERIES */
+@media all and (max-width: 700px) and (min-width: 0px){
+	audio, canvas, video {
+    height: 185px;
+}
+	.sign00 {
+width: 99%;
+	}
+	.sign0 {
+		width: 46%;
+	}
+	.sign1 {
+		width: 46%;
+	}
+	.sign2 {
+		width: 46%;
+	}
+	.sign3 {
+		width: 46%;
+	}
+	.sign4 {
+		width: 46%;
+		height: 240px;
+	}
+	.sign5 {
+		width: 46%;
+	}
+}

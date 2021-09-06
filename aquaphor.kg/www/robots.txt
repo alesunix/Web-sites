@@ -1,0 +1,6 @@
+User-agent: *
+Allow: / 
+Disallow: /admin/
+Crawl-delay: 1
+Host: https://aquaphor.kg
+Sitemap: https://aquaphor.kg/sitemap.xml

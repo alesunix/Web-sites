@@ -1,0 +1,6 @@
+User-agent: *
+Allow: / 
+Disallow: /admin/
+Crawl-delay: 1
+Host: https://complete-trade.ru
+Sitemap: https://complete-trade.ru/sitemap.xml

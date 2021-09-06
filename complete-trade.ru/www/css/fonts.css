@@ -1,0 +1,95 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans|Playfair+Display:400,700,400italic,700italic&subset=latin,cyrillic);
+#* {box-sizing: border-box;}
+body {margin: 0;}
+.post {
+  width: 60%;
+  margin: 30px auto 0;
+}
+img {
+  #width: 100%;
+  max-width: 100%;
+  height: auto;
+}
+.post-container {
+  width: 100%;
+  padding: 30px;
+}
+h8 {
+  margin: 15px 0;
+  font-size: 18px;
+  #text-align: center;
+  letter-spacing: 0.5px;
+}
+h6 {
+font-size: 17px;
+
+text-align: right;
+margin: revert;
+}
+h7 {
+font-size: 22px;
+  color: #006;
+#font-weight: bold;
+line-height: 27px;
+}
+h4 {
+  margin: 15px 0;
+  font-size: 22px;
+  text-align: center;
+  letter-spacing: 1px;
+  color: #006;
+}
+h5 {
+margin: 15px 0;
+font-size: 22px;
+text-align: center;
+font-weight: 1;
+color: #006;
+}
+h2 {
+  color: #006;
+  font-size: 30px;
+  letter-spacing: 1px;
+  font-weight: bold;
+}
+h3 {
+  font-size: 17px;
+  text-align: center;
+  font-weight: bold;
+   color: #006;
+}
+h3 a {
+  color: #c2a77a;
+}
+
+.post-info {
+  padding-top: 35px;
+}
+@media all and (max-width: 700px) and (min-width: 0px){
+	h7 {
+font-size:16px;
+line-height: 14px;
+}
+	h8 {
+font-size:16px;
+}
+h2 {
+font-size: 20px;
+}
+h5 {
+font-size: 18px;
+}
+h4 {
+font-size: 18px;
+}
+h2 small{
+font-size: 16px;
+}
+}
+@font-face{
+font-family: 'cambria';
+src: url('../fonts/cambria.ttf');
+font-style: normal; 
+font-weight: normal; 
+font-display: swap;
+}

@@ -1,0 +1,14 @@
+<!-- Swiper -->
+  <div class="swiper-container gallery-top">
+    <div class="swiper-wrapper">	
+	  <div class="swiper-slide"><img src="i/slide/1.webp" alt=""  onerror="this.onerror=null; this.src='i/slide/6.jpg'"/></div>
+	  <div class="swiper-slide"><img src="i/slide/2.webp" alt=""  onerror="this.onerror=null; this.src='i/slide/1.jpg'"/></div>
+	  <div class="swiper-slide"><img src="i/slide/3.webp" alt=""  onerror="this.onerror=null; this.src='i/slide/3.jpg'"/></div>
+	  <div class="swiper-slide"><img src="i/slide/4.webp" alt=""  onerror="this.onerror=null; this.src='i/slide/4.jpg'"/></div>
+	  <div class="swiper-slide"><img src="i/slide/5.webp" alt=""  onerror="this.onerror=null; this.src='i/slide/5.jpg'"/></div>
+	  <div class="swiper-slide"><img src="i/slide/6.webp" alt="" oncontextmenu="return false;" onerror="this.onerror=null; this.src='i/slide/3.jpg'"/></div>
+    </div>
+    <!-- Add Arrows -->
+    <div class="swiper-button-next swiper-button-white"></div>
+    <div class="swiper-button-prev swiper-button-white"></div>
+  </div>

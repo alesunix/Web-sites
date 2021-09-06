@@ -1,0 +1,14 @@
+RewriteEngine on
+
+
+RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization},L]
+
+
+Options -Indexes
+
+<Files "*.inc.php">
+order allow,deny
+deny from all
+</Files>
+
+ErrorDocument 404 /404.shtml

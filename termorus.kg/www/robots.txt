@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-Crawl-delay: 1
-Host: https://termorus.kg/
-Sitemap: https://termorus.kg/sitemap.xml

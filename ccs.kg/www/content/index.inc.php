@@ -65,31 +65,33 @@ text-shadow: 1px 1px 1px black;
 <h5>Комплекс услуг по перевозке:</h5><br>
 <div class="grid3">
   <div class="grid__item">
-<img class="card__img" src="/i/services/SecretMail.svg" alt="" oncontextmenu="return true;">
+<object class="card__img" data="/i/services/SecretMail.svg" type="image/svg+xml"></object>
 <p class="card__text">Секретной и стандартной корреспонденции</p>
 </div>
   <div class="grid__item">
-<img class="card__img" src="/i/services/jewelry.svg" alt="" oncontextmenu="return true;">
+<object class="card__img" data="/i/services/jewelry.svg" type="image/svg+xml"></object>
 <p class="card__text">Ювелирных изделий, драгоценных металлов и камней</p>
 </div>
   <div class="grid__item">
-<img class="card__img" src="/i/services/drugs.svg" alt="" oncontextmenu="return true;">
+<object class="card__img" data="/i/services/drugs.svg" type="image/svg+xml"></object>
 <p class="card__text">Наркотических средств и психотропных веществ</p>
 </div>
   <div class="grid__item">
-<img class="card__img" src="/i/services/dangerous.svg" alt="" oncontextmenu="return true;">
+<object class="card__img" data="/i/services/dangerous.svg" type="image/svg+xml"></object>
 <p class="card__text">Опасных грузов и грузов оборонно-промышленных комплексов</p>
 </div>
   <div class="grid__item">
-<img class="card__img" src="/i/services/weapon.svg" alt="" oncontextmenu="return true;">
+<object class="card__img" data="/i/services/weapon.svg" type="image/svg+xml"></object>
 <p class="card__text">Оружия и военоой продукции</p>
 </div>
   <div class="grid__item">
-<img class="card__img" src="/i/services/money.svg" alt="" oncontextmenu="return true;">
+<object class="card__img" data="/i/services/money.svg" type="image/svg+xml"></object>
 <p class="card__text">Ценных бумаг, банкнот в кыргызской и иностранной валюте</p>
 </div>
 </div>
 </center>
+
+
 
 
 

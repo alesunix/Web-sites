@@ -67,6 +67,9 @@ margin-bottom: 40px;
   object-fit: cover;
   padding: 5px 0 5px 0;
 }
+.card__img:hover {
+filter: invert(26%) sepia(100%) saturate(1526%) hue-rotate(190deg) brightness(70%) contrast(83%);
+}
 .card__content {
 padding: 0.3rem 0.5rem;
 text-align: center;

@@ -13,6 +13,7 @@ $content = <<<EOF
 <center><h5>Кыргызская Республика</h5>
 <h3>Доставка производится до каждого районного центра и крупных населенных пунктов республики</h3></center>
 
+<div id="content">
 <div id="tooltip" display="none" style="position: absolute; display: none;"></div>
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 800 400">
 <defs>
@@ -176,7 +177,7 @@ $content = <<<EOF
   <polyline points="380,35 357.5,23 220,70 670,75 260,210 490,170 250,265 110,310" fill="none" stroke=""
    marker-start="url(#dot1)" marker-mid="url(#dot1)"  marker-end="url(#dot1)" />	
 </svg>
-</div>
+</div></div>
 
 <table class="bordered">
 <caption><b><big>      </b></big></caption>

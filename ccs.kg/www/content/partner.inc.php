@@ -11,7 +11,7 @@ $page_blocks = 'contact, info, newsblock';
 $content = <<<EOF
 <div class="grid">
   <div class="grid__item">
-    <div class="card"><img class="card__img" src="/i/cccb.png" alt="Россия спецсвязь" oncontextmenu="return false;">
+    <div class="card"><img class="card__img2" src="/i/cccb.png" alt="Россия спецсвязь" oncontextmenu="return false;">
       <div class="card__content">
         <h1 class="card__header">Россия</h1>
         <p class="card__text">Федеральное государственное унитарное предприятие «Главный центр специальной связи» Российской Федерации </p>
@@ -20,7 +20,7 @@ $content = <<<EOF
     </div>
   </div>
   <div class="grid__item">
-    <div class="card"><img class="card__img" src="/i/ccskaz.png" alt="Казахстан спецсвязь" oncontextmenu="return false;">
+    <div class="card"><img class="card__img2" src="/i/ccskaz.png" alt="Казахстан спецсвязь" oncontextmenu="return false;">
       <div class="card__content">
         <h1 class="card__header">Казахстан</h1>
         <p class="card__text">Филиал АО "Казпочта" Республиканская служба специальной связи Республики Казахстан</p>
@@ -29,7 +29,7 @@ $content = <<<EOF
     </div>
   </div>
   <div class="grid__item">
-    <div class="card"><img class="card__img" src="/i/uzsss.png" alt="Узбекистан спецсвязь" oncontextmenu="return false;">
+    <div class="card"><img class="card__img2" src="/i/uzsss.png" alt="Узбекистан спецсвязь" oncontextmenu="return false;">
       <div class="card__content">
         <h1 class="card__header">Узбекистан</h1>
         <p class="card__text">Государственное унитарное предприятие «Республиканский узел специальной связи» Республики Узбекистан</p>
@@ -38,7 +38,7 @@ $content = <<<EOF
     </div>
   </div>
   <div class="grid__item">
-    <div class="card"><img class="card__img" src="/i/belccs.png" alt="Беларусь спецсвязь" oncontextmenu="return false;">
+    <div class="card"><img class="card__img2" src="/i/belccs.png" alt="Беларусь спецсвязь" oncontextmenu="return false;">
       <div class="card__content">
         <h1 class="card__header">Беларусь</h1>
         <p class="card__text">Республиканское унитарное предприятие<br> "Специальная связь" Республики Беларусь</p>
@@ -47,7 +47,7 @@ $content = <<<EOF
     </div>
   </div>
     <div class="grid__item">
-    <div class="card"><img class="card__img" src="/i/dpsz.png" alt="Украина спецсвязь" oncontextmenu="return false;">
+    <div class="card"><img class="card__img2" src="/i/dpsz.png" alt="Украина спецсвязь" oncontextmenu="return false;">
       <div class="card__content">
         <h1 class="card__header">Украина</h1>
         <p class="card__text">Государственное предприятие специальной связи Украины</p>

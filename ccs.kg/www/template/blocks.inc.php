@@ -7,7 +7,7 @@ $contact = <<<contact
 <tagname class="block" ><b>Контактная информация</b></tagname>
 <tagname class="block2" >
 <center>
-Адрес: г. Бишкек, ул. Раззакова 55 <a href="/contact.html" data-placement="bottom" title="Перейти в раздел «Контакты»">на карте</a><br>
+Адрес: г. Бишкек, ул. Раззакова 55 <br>
 Электронный адрес: <i class="fa fa-envelope-o"></i> <a class="mailto" href="mailto:ccs@ccs.kg">ccs@ccs.kg</a><br><br>
 Телефоны: <i class="fa fa-phone"></i><br>
 Дежурная часть - 0312 625-982<br>
@@ -54,6 +54,17 @@ $info = <<<info
 </tagname>
 </div><!--/well -->
 info;
+
+$Interactive = <<<Interactive
+<div class='well well-small'>
+<tagname class="block" ><b>Интерактивная карта</b></tagname>
+<tagname class="block2">
+<a href="/interactive-map.html" style="cursor: zoom-in;">
+<div id="loadcontent"></div>
+</a>
+</tagname>
+</div><!--/well -->
+Interactive;
 
 $Priorities = <<<Priorities
 <div class='well well-small'>

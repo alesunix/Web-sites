@@ -2,6 +2,7 @@
 .bordered {
 box-shadow: 0 1px 1px #ccc;
 width: 100%;
+cursor: pointer;
 #margin-left: 5%;   
 }
  
@@ -17,20 +18,22 @@ width: 100%;
 .bordered td, .bordered th {
     border-left: 1px solid #ccc;
     border-top: 1px solid #ccc;
-    padding: 1px;
-    text-align: center;    
+    padding: 5px;
+    text-align: left;    
+	padding-left: 10px;
 }
  
 .bordered th {
     padding-top: 15px;
 	padding-bottom: 7px;
     background-color: #7393A77A;
-    #background-image: linear-gradient(to bottom, #fffff5 0%, #ffcc666e 100%);
+    background-image: linear-gradient(to left, #2c3e50, #2c3e5000);
+	background-image: linear-gradient(to left, #2c3e50, #f5f5f5);
     -webkit-box-shadow: 0 1px 0 rgba(255,255,255,.8) inset; 
     -moz-box-shadow:0 1px 0 rgba(255,255,255,.8) inset;  
     box-shadow: 0 1px 0 rgba(255,255,255,.8) inset;        
     border-top: none;
-    text-shadow: 0 1px 0 rgba(255,255,255,.5); 
+    #text-shadow: 0 1px 0 rgba(255,255,255,.5); 
 }
  
 .bordered td:first-child, .bordered th:first-child {

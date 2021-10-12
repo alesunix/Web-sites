@@ -11,7 +11,7 @@ $page_blocks = 'contact, info, newsblock';
 $content = <<<EOF
 <div class="headerstyle">
 
-<h5>Эмблема</h3><br>
+<h2>Эмблема</h2><br>
 <div class="tabstyle">
 <img src="/i/logo-small.png" width="250" alt="Эмблема спецсвязи" oncontextmenu="return false;"><br><br>
 </div>
@@ -27,7 +27,7 @@ $content = <<<EOF
 </p>
 <hr>
 
-<h5>Нарукавный знак</h3><br>
+<h2>Нарукавный знак</h2><br>
 <div class="tabstyle">
 <img src="/i/Chevron.png" width="250" alt="Нарукавный знак спецсвязи" oncontextmenu="return false;"><br><br>
 </div>
@@ -41,7 +41,7 @@ $content = <<<EOF
 </p>
 <hr>
 
-<h5>Петличная эмблема</h3><br>
+<h2>Петличная эмблема</h2><br>
 <div class="tabstyle">
 <img src="/i/Buttonhole.png" width="250" alt="Петличная эмблема спецсвязи" oncontextmenu="return false;"><br><br>
 </div>
@@ -65,7 +65,7 @@ $content = <<<EOF
 </p>
 <hr>
 
-<h5>Нашивки</h3><br>
+<h2>Нашивки</h2><br>
 <div class="tabstyle">
 <img src="/i/Stripe.png" width="350" alt="Нашивка спецсвязи" oncontextmenu="return false;"><br><br>
 </div>
@@ -98,7 +98,7 @@ $content = <<<EOF
 </p>
 <hr>
 
-<h5>Погоны</h3><br>
+<h2>Погоны</h2><br>
 <div class="tabstyle">
 <b>Погоны для старшего и среднего состава (при выходной форме одежды)</b><br>
 На рубашки белого цвета.<br><br>

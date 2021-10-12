@@ -7,7 +7,6 @@
 $footmenu = array (
 			array ('index.html#company"', 'О предприятии', ''),
 			array ('direction', 'Руководство', ''),
-			array ('services', 'Услуги', ''),
 			array ('interactive-map', 'Зона обслуживания', ''),
 			array ('partner', 'Наши партнеры', ''),
 			array ('feedback', 'Обратная связь', ''),
@@ -24,13 +23,11 @@ $mainmenu = array (
 			<li><a href="/history.html#veterans">Ветераны спецсвязи</a></li>   
 			<li><a href="/quality.html">Политика качества</a></li>
 			<li><a href="/anti-corruption.html">Противодействие коррупции</a></li>
-			<li><a href="/symbolics.html">Символика</a></li>
 			<li><a href="/direction.html">Руководство</a></li>
           </ul>
         </li>
       </ul>
 ', ''),
-			array ('services', 'Услуги', ''),
 			array ('interactive-map', 'Зона обслуживания', ''),
 			array ('partner', 'Наши партнеры', ''),
 			array ('feedback', 'Обратная связь', ''),

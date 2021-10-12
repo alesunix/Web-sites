@@ -95,7 +95,7 @@
 <h3 class="muted"><?=$config['slogan']?></h3>
 <div class="row-fluid">
 <article class="span9 well well-large well-inverse">
-<h1><font style="color: #df2b2c; text-shadow: 1px 1px 1px black;"><?=$title;?></font></h1>
+<h1><?=$title;?></font></h1>
 <?=$content;?>
 </article><!--/span-->
 
@@ -106,6 +106,7 @@
 <?=GetBlock($page_blocks, 'info', $info )?>
 <?=GetBlock($page_blocks, 'Priorities', $Priorities )?>
 <?=GetBlock($page_blocks, 'history', $history )?>
+<?=GetBlock($page_blocks, 'Interactive', $Interactive )?>
 <?=GetBlock($page_blocks, 'state', $state )?>
 <?=GetBlock($page_blocks, 'obituary', $obituary )?>
 <?=GetBlock($page_blocks, 'resume', $resume )?>
@@ -210,7 +211,7 @@ Copyright &copy; 1939 — <script type="text/javascript">dt = new Date();documen
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js" type="text/javascript"></script>
 <script type="text/javascript" src="<?= $config['sitelink']?>template/bootstrap/js/bootstrap.min.js"></script>
 <script src="/template/bootstrap/js/bootstrap.min.js"></script>
-
+<script src="js/main.js" type="text/javascript"></script>
 
 <!-- google-translate 
 <link rel="stylesheet" href="/css/translate.css">

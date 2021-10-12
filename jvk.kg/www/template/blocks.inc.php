@@ -13,8 +13,7 @@ $newsblock = <<<newsblock
 <tr><th colspan="1">Новости</th></tr>
 </table>
 
-<div id="loadcontent" class='list'>
-</div>
+<div id="loadcontent" class='list'></div>
 
 
 <a href="/press/companynews.html" class="btn" style="display: block; float: right;position: relative;top: 30px;">Все новости</a>

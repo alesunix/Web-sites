@@ -103,8 +103,8 @@
 <!--/Блоки-->
 <?=GetBlock($page_blocks, 'holiday', $holiday )?>
 <?=GetBlock($page_blocks, 'contact', $contact )?>
-<?=GetBlock($page_blocks, 'info', $info )?>
 <?=GetBlock($page_blocks, 'Priorities', $Priorities )?>
+<?=GetBlock($page_blocks, 'info', $info )?>
 <?=GetBlock($page_blocks, 'history', $history )?>
 <?=GetBlock($page_blocks, 'Interactive', $Interactive )?>
 <?=GetBlock($page_blocks, 'state', $state )?>

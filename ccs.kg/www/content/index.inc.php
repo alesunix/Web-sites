@@ -5,7 +5,7 @@ $title = 'Служба специальной связи Кыргызской Р
 $keywords = 'Курьерская Служба Связь сопровождение перевозка Доставка Корреспонденция Груз безопасность фельдъегерь';
 $description = 'Доставка всех видов корреспонденции, включая ценные, опасные и специальные грузы в любую точку Кыргызской Республики и за рубеж.';
 $template = 'info';
-$page_blocks = 'info, Priorities, contact, state, history, Interactive';
+$page_blocks = 'info, contact, state, history, Interactive';
 
 # Содержание страницы
 $content = <<<EOF

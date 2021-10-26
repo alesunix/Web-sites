@@ -40,7 +40,7 @@
 {
   "@context": "http://schema.org",
   "@type": "Organization",
-  "url": "http://ccs.kg/",
+  "url": "https://www.ccs.kg/",
   "name": "Служба Специальной Связи Кыргызской Республики",
   "contactPoint": {
     "@type": "ContactPoint",

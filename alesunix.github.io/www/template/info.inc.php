@@ -215,9 +215,11 @@ alesunix@gmail.com<br>
      <link rel="stylesheet" type="text/css" href="css/background.css" />
 	 <link rel="stylesheet" type="text/css" href="css/Animated-Background.css" />
 	 <link rel="stylesheet" type="text/css" href="css/style.css" />
-	 <link rel="stylesheet" type="text/css" href="css/blockbutton.css" />	 
+	 <link rel="stylesheet" type="text/css" href="css/blockbutton.css" /> 
 	 <link rel="stylesheet" type="text/css" href="css/styleheader.css" />
-	 <link rel="stylesheet" type="text/css" href="css/stylebutton.css" />	 
+	 <link rel="stylesheet" type="text/css" href="css/stylebutton.css" />	
+     <link rel="stylesheet" type="text/css" href="css/stylebutton3.css" />	 
+	 <link rel="stylesheet" type="text/css" href="css/styleModal.css" />	 
 	 <link rel="stylesheet" href="css/fonts.css"> 
 	 <link rel="stylesheet" href="css/card.css"> 	 
 	 <link rel="stylesheet" href="css/about-me.css">
@@ -226,7 +228,6 @@ alesunix@gmail.com<br>
 	 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js" type="text/javascript"></script>
 <script type="text/javascript" src="template/bootstrap/js/bootstrap.min.js"></script>
-<script src="template/bootstrap/js/bootstrap.min.js"></script>
 <script src="/js/main.js"></script>
 
 <!-- google-translate -->

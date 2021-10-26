@@ -234,7 +234,7 @@ Copyright &copy; <script type="text/javascript">dt = new Date();document.write(d
 <script src="/js/counter.js"></script>
 <script src="/js/main.js"></script>
 
-<!-- google-translate -->
+<!-- google-translate
 <link rel="stylesheet" href="/css/translate.css">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
 <script src="/js/google-translate.js"></script>
